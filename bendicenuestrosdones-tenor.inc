@@ -11,51 +11,51 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\time 6/8
-		\clef "treble"
+		\clef "treble_8"
 		\key g \major
 
 		R2.*17  |
-		b' 4 g' a'  |
-		b' 8 d'' 4 c'' 8 b' 4  |
+		b 4 g a  |
+		b 8 d' 4 c' 8 b 4  |
 %% 20
-		a' 4 fs' 8 fs' g' 4  |
-		a' 4 c'' 8 b' a' 4  |
-		g' 4 e' 8 e' fs' 4  |
-		g' 8 b' 4 a' 8 g' 4  |
-		fs' 2.  |
+		a 4 fs 8 fs g 4  |
+		a 4 c' 8 b a 4  |
+		g 4 e 8 e fs 4  |
+		g 8 b 4 a 8 g 4  |
+		fs 2.  |
 %% 25
-		r4. r8 r b  |
-		e' 8 e' e' fs' fs' g' ~  |
-		g' 8 g' 4 c'' a' 8  |
-		b' 4 g' 8 c'' 4 a' 8  |
-		b' 4 b' r8 g'  |
+		r4. r8 r b,  |
+		e 8 e e fs fs g ~  |
+		g 8 g 4 c' a 8  |
+		b 4 g 8 c' 4 a 8  |
+		b 4 b r8 g  |
 %% 30
-		a' 8 a' a' a' a' g' ~  |
-		g' 8 g' g' g' 4 g' 8 ~  |
-		g' 8 ~ g' g' g' 4 e' 8  |
-		fs' 2. ~  |
-		fs' 4 r8 r4.  |
+		a 8 a a a a g ~  |
+		g 8 g g g 4 g 8 ~  |
+		g 8 ~ g g g 4 e 8  |
+		fs 2. ~  |
+		fs 4 r8 r4.  |
 %% 35
-		b' 4 g' a'  |
-		b' 8 d'' 4 c'' 8 b' 4  |
-		a' 4 fs' 8 fs' g' 4  |
-		a' 4 c'' 8 b' a' 4  |
-		g' 4 e' 8 e' fs' 4  |
+		b 4 g a  |
+		b 8 d' 4 c' 8 b 4  |
+		a 4 fs 8 fs g 4  |
+		a 4 c' 8 b a 4  |
+		g 4 e 8 e fs 4  |
 %% 40
-		g' 8 b' 4 a' 8 g' 4  |
-		fs' 2.  |
-		r4. r8 r c'  |
-		e' 8 e' e' fs' fs' g' ~  |
-		g' 8 g' 4 c'' a' 8  |
+		g 8 b 4 a 8 g 4  |
+		fs 2.  |
+		r4. r8 r c  |
+		e 8 e e fs fs g ~  |
+		g 8 g 4 c' a 8  |
 %% 45
-		b' 4 g' 8 c'' 4 a' 8  |
-		b' 4 b' r8 g'  |
-		a' 8 a' a' a' a' g' ~  |
-		g' 8 g' g' g' 4 g' 8 ~  |
-		g' 8 ~ g' g' g' 4 e' 8  |
+		b 4 g 8 c' 4 a 8  |
+		b 4 b r8 g  |
+		a 8 a a a a g ~  |
+		g 8 g g g 4 g 8 ~  |
+		g 8 ~ g g g 4 e 8  |
 %% 50
-		fs' 2. ~  |
-		fs' 4 r8 r4.  |
+		fs 2. ~  |
+		fs 4 r8 r4.  |
 		\bar "|."
 	}
 
