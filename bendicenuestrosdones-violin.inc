@@ -23,6 +23,8 @@
 		e' 8 e'' 4 -\staccato d'' 8 c'' 4 -\staccato  |
 		d'' 2. ~  |
 		d'' 4 r8 r4.  |
+		R2.*99  |
+		\bar "|."
 	}
 
 >>

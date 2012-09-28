@@ -17,10 +17,12 @@
 }
 global = {
 	\time 6/8
-	\skip 2.*61  %% 1-61
+	\skip 2.*107
 }
 globalTempo = {
-	\tempo 4 = 132
+	\tempo 4 = 125  \skip 2.*51
+	\tempo 4 = 93   \skip 2.*20
+	\tempo 4 = 125
 }
 
 \score {
