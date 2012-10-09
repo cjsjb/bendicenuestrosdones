@@ -5,6 +5,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Bendice nuestros dones"
+	composer = "Gerado Bermejo"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
