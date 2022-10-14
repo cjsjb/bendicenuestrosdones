@@ -182,7 +182,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "mezzo" {
 		Hoy que tra -- e -- mos nues -- tros do -- nes a "tu al" -- tar,
 		te su -- pli -- ca -- mos nos ben -- di -- gas, ¡oh, Se -- ñor!
 		Ben -- di -- ce los co -- ra -- zo -- nes "que hoy" se u -- nen en tu nom -- bre,
