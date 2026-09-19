@@ -1,6 +1,6 @@
 \context Staff = "violin" \with { \consists Ambitus_engraver } <<
-	\set Staff.instrumentName = "Violín"
-	\set Staff.shortInstrumentName = "V."
+	\set Staff.instrumentName = "Violín I"
+	\set Staff.shortInstrumentName = "Vn.1"
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\new Voice \global
@@ -47,7 +47,7 @@
 		r8 b' d'' e'' g'' a''  |
 		g'' 2 r8 r  |
 %% 30
-		r8 < f'' c'' > < f'' c'' > < f'' c'' > < c'' f'' > r  |
+		r8 < f'' c'' > < f'' c'' > < f'' c'' > < c'' f'' > < f'' c'' >  |
 		r8 < e'' c'' > < e'' c'' > < e'' c'' > < c'' e'' > r  |
 		< e'' c'' > 8 < e'' c'' > r < e'' c'' > < e'' c'' > r  |
 		d'' 2. ~  |
@@ -66,7 +66,7 @@
 %% 45
 		r8 b' d'' e'' g'' a''  |
 		g'' 2 r8 r  |
-		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > r  |
+		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > < f'' c'' >  |
 		r8 < c'' e'' > < c'' e'' > < c'' e'' > < e'' c'' > r  |
 		< c'' e'' > 8 < c'' e'' > r < c'' e'' > < c'' e'' > r  |
 %% 50
@@ -106,7 +106,7 @@
 %% 80
 		r8 b' d'' e'' g'' a''  |
 		g'' 2 r8 r  |
-		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > r  |
+		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > < f'' c'' >  |
 		r8 < c'' e'' > < c'' e'' > < c'' e'' > < e'' c'' > r  |
 		< c'' e'' > 8 < c'' e'' > r < c'' e'' > < c'' e'' > r  |
 %% 85
@@ -125,7 +125,7 @@
 		R2.  |
 		r8 b' d'' e'' g'' a''  |
 		g'' 2 r8 r  |
-		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > r  |
+		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > < f'' c'' >  |
 %% 100
 		r8 < c'' e'' > < c'' e'' > < c'' e'' > < e'' c'' > r  |
 		< c'' e'' > 8 < c'' e'' > r < c'' e'' > < c'' e'' > r  |
@@ -164,7 +164,7 @@
 		R2.  |
 		r8 b' d'' e'' g'' a''  |
 		g'' 2 r8 r  |
-		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > r  |
+		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > < f'' c'' >  |
 %% 135
 		r8 < c'' e'' > < c'' e'' > < c'' e'' > < e'' c'' > r  |
 		< c'' e'' > 8 < c'' e'' > r < c'' e'' > < c'' e'' > r  |
@@ -183,7 +183,7 @@
 		r8 b' d'' e'' g'' a''  |
 %% 150
 		g'' 2 r8 r  |
-		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > r  |
+		r8 < c'' f'' > < c'' f'' > < c'' f'' > < f'' c'' > < f'' c'' >  |
 		r8 < c'' e'' > < c'' e'' > < c'' e'' > < e'' c'' > r  |
 		< c'' e'' > 8 < c'' e'' > r < c'' e'' > < c'' e'' > r  |
 		d'' 2. ~  |
