@@ -13,19 +13,18 @@
 		\time 6/8
 		\clef "treble_8"
 		\key g \major
-
 		R2.*17  |
 		b 4 g a  |
 		b 8 d' 4 c' 8 b 4  |
 %% 20
-		a 4 fs 8 fs g 4  |
+		a 4 fis 8 fis g 4  |
 		a 4 c' 8 b a 4  |
-		g 4 e 8 e fs 4  |
+		g 4 e 8 e fis 4  |
 		g 8 b 4 a 8 g 4  |
-		fs 2.  |
+		fis 2.  |
 %% 25
 		r4. r8 r b,  |
-		e 8 e e fs fs g ~  |
+		e 8 e e fis fis g ~  |
 		g 8 g 4 c' a 8  |
 		b 4 g 8 c' 4 a 8  |
 		b 4 b r8 g  |
@@ -33,19 +32,19 @@
 		a 8 a a a a g ~  |
 		g 8 g g g 4 g 8 ~  |
 		g 8 g 4 g e 8  |
-		fs 2. ~  |
-		fs 4 r8 r4.  |
+		fis 2. ~  |
+		fis 4 r8 r4.  |
 %% 35
 		b 4 g a  |
 		b 8 d' 4 c' 8 b 4  |
-		a 4 fs 8 fs g 4  |
+		a 4 fis 8 fis g 4  |
 		a 4 c' 8 b a 4  |
-		g 4 e 8 e fs 4  |
+		g 4 e 8 e fis 4  |
 %% 40
 		g 8 b 4 a 8 g 4  |
-		fs 2.  |
+		fis 2.  |
 		r4. r8 r c  |
-		e 8 e e fs fs g ~  |
+		e 8 e e fis fis g ~  |
 		g 8 g 4 c' a 8  |
 %% 45
 		b 4 g 8 c' 4 a 8  |
@@ -54,8 +53,8 @@
 		g 8 g g g 4 g 8 ~  |
 		g 8 g 4 g e 8  |
 %% 50
-		fs 2. ~  |
-		fs 4 r8 r4.  |
+		fis 2. ~  |
+		fis 4 r8 r4.  |
 		R2.*2  |
 		b 2. ~  |
 %% 55
@@ -65,8 +64,8 @@
 		g 2. ~  |
 		g 2.  |
 %% 60
-		fs 2. ~  |
-		fs 2.  |
+		fis 2. ~  |
+		fis 2.  |
 		e 2. ~  |
 		e 2. ~  |
 		e 2. ~  |
@@ -74,19 +73,19 @@
 		e 4. r  |
 		e 2. ~  |
 		e 2.  |
-		ds 2. ~  |
-		ds 4. r  |
+		dis 2. ~  |
+		dis 4. r  |
 %% 70
 		b 4 g a  |
 		b 8 d' 4 c' 8 b 4  |
-		a 4 fs 8 fs g 4  |
+		a 4 fis 8 fis g 4  |
 		a 4 c' 8 b a 4  |
-		g 4 e 8 e fs 4  |
+		g 4 e 8 e fis 4  |
 %% 75
 		g 8 b 4 a 8 g 4  |
-		fs 2.  |
+		fis 2.  |
 		r4. r8 r b,  |
-		e 8 e e fs fs g ~  |
+		e 8 e e fis fis g ~  |
 		g 8 g 4 c' a 8  |
 %% 80
 		b 4 g 8 c' 4 a 8  |
@@ -95,19 +94,19 @@
 		g 8 g g g 4 g 8 ~  |
 		g 8 g 4 g e 8  |
 %% 85
-		fs 2. ~  |
-		fs 4 r8 r4.  |
+		fis 2. ~  |
+		fis 4 r8 r4.  |
 		b 4 g a  |
 		b 8 d' 4 c' 8 b 4  |
-		a 4 fs 8 fs g 4  |
+		a 4 fis 8 fis g 4  |
 %% 90
 		a 4 c' 8 b a 4  |
-		g 4 e 8 e fs 4  |
+		g 4 e 8 e fis 4  |
 		g 8 b 4 a 8 g 4  |
-		fs 2.  |
+		fis 2.  |
 		r4. r8 r c  |
 %% 95
-		e 8 e e fs fs g ~  |
+		e 8 e e fis fis g ~  |
 		g 8 g 4 c' a 8  |
 		b 4 g 8 c' 4 a 8  |
 		b 4 b r8 g  |
@@ -115,8 +114,8 @@
 %% 100
 		g 8 g g g 4 g 8 ~  |
 		g 8 g 4 g e 8  |
-		fs 2. ~  |
-		fs 4 r8 r4.  |
+		fis 2. ~  |
+		fis 4 r8 r4.  |
 		R2.*2  |
 		b 2. ~  |
 		b 2.  |
@@ -125,8 +124,8 @@
 %% 110
 		g 2. ~  |
 		g 2.  |
-		fs 2. ~  |
-		fs 2.  |
+		fis 2. ~  |
+		fis 2.  |
 		e 2. ~  |
 %% 115
 		e 2. ~  |
@@ -135,19 +134,19 @@
 		e 2. ~  |
 		e 2.  |
 %% 120
-		ds 2. ~  |
-		ds 4. r  |
+		dis 2. ~  |
+		dis 4. r  |
 		b 4 g a  |
 		b 8 d' 4 c' 8 b 4  |
-		a 4 fs 8 fs g 4  |
+		a 4 fis 8 fis g 4  |
 %% 125
 		a 4 c' 8 b a 4  |
-		g 4 e 8 e fs 4  |
+		g 4 e 8 e fis 4  |
 		g 8 b 4 a 8 g 4  |
-		fs 2.  |
+		fis 2.  |
 		r4. r8 r b,  |
 %% 130
-		e 8 e e fs fs g ~  |
+		e 8 e e fis fis g ~  |
 		g 8 g 4 c' a 8  |
 		b 4 g 8 c' 4 a 8  |
 		b 4 b r8 g  |
@@ -155,19 +154,19 @@
 %% 135
 		g 8 g g g 4 g 8 ~  |
 		g 8 g 4 g e 8  |
-		fs 2. ~  |
-		fs 4 r8 r4.  |
+		fis 2. ~  |
+		fis 4 r8 r4.  |
 		b 4 g a  |
 %% 140
 		b 8 d' 4 c' 8 b 4  |
-		a 4 fs 8 fs g 4  |
+		a 4 fis 8 fis g 4  |
 		a 4 c' 8 b a 4  |
-		g 4 e 8 e fs 4  |
+		g 4 e 8 e fis 4  |
 		g 8 b 4 a 8 g 4  |
 %% 145
-		fs 2.  |
+		fis 2.  |
 		r4. r8 r c  |
-		e 8 e e fs fs g ~  |
+		e 8 e e fis fis g ~  |
 		g 8 g 4 c' a 8  |
 		b 4 g 8 c' 4 a 8  |
 %% 150
@@ -175,11 +174,10 @@
 		a 8 a a a a g ~  |
 		g 8 g g g 4 g 8 ~  |
 		g 8 g 4 g e 8  |
-		fs 2. ~  |
+		fis 2. ~  |
 %% 155
-		fs 4 r8 r4.  |
-		R2.  |
-		\bar "|."
+		fis 4 r8 r4.  |
+		R2.
 	}
 
 	\new Lyrics \lyricsto "tenor" {

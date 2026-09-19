@@ -13,19 +13,18 @@
 		\time 6/8
 		\clef "treble"
 		\key g \major
-
 		R2.*17  |
 		b' 4 g' a'  |
 		b' 8 d'' 4 c'' 8 b' 4  |
 %% 20
-		a' 4 fs' 8 fs' g' 4  |
+		a' 4 fis' 8 fis' g' 4  |
 		a' 4 c'' 8 b' a' 4  |
-		g' 4 e' 8 e' fs' 4  |
+		g' 4 e' 8 e' fis' 4  |
 		g' 8 b' 4 a' 8 g' 4  |
-		fs' 2.  |
+		fis' 2.  |
 %% 25
 		r4. r8 r b  |
-		e' 8 e' e' fs' fs' g' ~  |
+		e' 8 e' e' fis' fis' g' ~  |
 		g' 8 g' 4 c'' a' 8  |
 		b' 4 g' 8 c'' 4 a' 8  |
 		b' 4 b' r8 g'  |
@@ -33,8 +32,8 @@
 		a' 8 a' a' a' a' g' ~  |
 		g' 8 g' g' g' 4 g' 8 ~  |
 		g' 8 g' 4 g' e' 8  |
-		fs' 2. ~  |
-		fs' 4 r8 r4.  |
+		fis' 2. ~  |
+		fis' 4 r8 r4.  |
 %% 35
 		d' 4 b b  |
 		d' 8 d' 4 d' 8 d' 4  |
@@ -60,21 +59,21 @@
 		g' 4 g' 8 g' g' 4  |
 %% 55
 		g' 4 g' g'  |
-		fs' 4 fs' 8 a' a' 4  |
-		a' 4 a' 8 r g' fs'  |
-		g' 4 e' fs'  |
-		g' 4 fs' e'  |
+		fis' 4 fis' 8 a' a' 4  |
+		a' 4 a' 8 r g' fis'  |
+		g' 4 e' fis'  |
+		g' 4 fis' e'  |
 %% 60
-		fs' 4 d' 2 ~  |
+		fis' 4 d' 2 ~  |
 		d' 4 r8 r r g  |
 		c' 8 c' c' d' d' e' ~  |
 		e' 4 e' 8 e' 4 e' 8  |
 		b 8 b b d' d' e' ~  |
 %% 65
 		e' 4 e' 8 r r g  |
-		bf 8 bf bf cs' cs' e' ~  |
-		e' 8 e' 4 ds' cs' 8  |
-		ds' 4 b b  |
+		bes 8 bes bes cis' cis' e' ~  |
+		e' 8 e' 4 dis' cis' 8  |
+		dis' 4 b b  |
 		b 4 b b  |
 %% 70
 		b 2.  |
@@ -120,22 +119,22 @@
 		R2.*2  |
 		g' 4 g' 8 g' g' 4  |
 		g' 4 g' g'  |
-		fs' 4 fs' 8 a' a' 4  |
-		a' 4 a' 8 r g' fs'  |
+		fis' 4 fis' 8 a' a' 4  |
+		a' 4 a' 8 r g' fis'  |
 %% 110
-		g' 4 e' fs'  |
-		g' 4 fs' e'  |
-		fs' 4 d' 2 ~  |
+		g' 4 e' fis'  |
+		g' 4 fis' e'  |
+		fis' 4 d' 2 ~  |
 		d' 4 r8 r r g  |
 		c' 8 c' c' d' d' e' ~  |
 %% 115
 		e' 4 e' 8 e' 4 e' 8  |
 		b 8 b b d' d' e' ~  |
 		e' 4 e' 8 r r g  |
-		bf 8 bf bf cs' cs' e' ~  |
-		e' 8 e' 4 ds' cs' 8  |
+		bes 8 bes bes cis' cis' e' ~  |
+		e' 8 e' 4 dis' cis' 8  |
 %% 120
-		ds' 4 b b  |
+		dis' 4 b b  |
 		b 4 b b  |
 		b 2.  |
 		R2.  |
@@ -178,8 +177,7 @@
 		a 2. ~  |
 %% 155
 		a 4 r8 r4.  |
-		R2.  |
-		\bar "|."
+		R2.
 	}
 
 	\new Lyrics \lyricsto "mezzo" {
